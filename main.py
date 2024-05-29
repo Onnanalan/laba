@@ -1,4 +1,8 @@
 a = 1
 b = 1
 if a == b:
-    print('shlaki baki')
+    print('qq')
+p = 7
+g = 8
+q = p*q
+print(q)
