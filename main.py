@@ -9,3 +9,4 @@ z = 80
 y = x * z
 print(y)
 print(x)
+a = 5
